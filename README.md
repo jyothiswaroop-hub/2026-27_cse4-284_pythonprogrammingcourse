@@ -1,4 +1,4 @@
-my name:p.jyothi swaroop
+name:p.jyothi swaroop
 sec:CSE-4
 my activitys
 1.University Scholarship Allocation: Design a system that evaluates applicants using aggregate
